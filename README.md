@@ -17,7 +17,7 @@ COMPOSER
 Clone repository :
 
 ```sh
-https://github.com/azmihaidar1/jayafutsal.git
+https://github.com/azmihaidar1/IKET.git
 ```
 
 Instalasi dependencies PHP dengan menggunakan Composer :
