@@ -6,9 +6,9 @@
               
               IKET ©
               <script>
-                  document.write('2020 - ' +new Date().getFullYear())
+                  document.write('2021 - ' +new Date().getFullYear())
               </script>
-              Made with <3 by <a href="http://fajarwz.medium.com" target="_blank">fajarwz</a>
+              Made with <3 by <a href="http://azmihaidar.com" target="_blank">AZMIHAIDAR</a>
 
                 &nbsp;|&nbsp;
 

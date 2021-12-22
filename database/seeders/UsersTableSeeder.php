@@ -45,16 +45,16 @@ class UsersTableSeeder extends Seeder
                 'role'     => 'TECHNICIAN'
             ],
             [
-                'name'      => 'Man',
-                'username'  => 'man',
-                'password'  => Hash::make('man'),
+                'name'      => 'Azmi Haidar',
+                'username'  => 'azmi',
+                'password'  => Hash::make('azmi'),
                 'dept_code' => 3300,
                 'role'      => 'MANAGER'
             ],
             [
-                'name'      => 'Fajar',
-                'username'  => 'fajar',
-                'password'  => Hash::make('fajar'),
+                'name'      => 'Galih Al Fryo',
+                'username'  => 'galih',
+                'password'  => Hash::make('galih'),
                 'dept_code' => 3300,
                 'role'     => 'TECHNICIAN'
             ],
